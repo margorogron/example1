@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
         //rgtrhg
         //rtbrtb
         //jjmuk
+        // Привет
+        // коментарий
+        // ещё один комнтарий
     }
 }
